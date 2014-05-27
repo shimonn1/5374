@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-可燃ごみ,,,,#ea3b13
-不燃ごみ,,,,#733b96
-資源物1,,,,#81d12e
-資源物2,,,,#08b925
-資源物3,,,,#27a047
-有害,,,,#65451f
-粗大ごみ,,,,#000000
+可燃ごみ,,,img/kanengomi.svg,#ea3b13
+不燃ごみ,,,img/funengomi.svg,#733b96
+資源物1,,,img/sigenbutu1.svg,#81d12e
+資源物2,,,img/sigenbutu2.svg,#08b925
+資源物3,,,img/sigenbutu3.svg,#27a047
+有害,,,img/yuugai.svg,#65451f
+粗大ごみ,,,img/sodaigomi.svg,#000000
