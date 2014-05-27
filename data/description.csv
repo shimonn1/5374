@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-可燃ごみ,,,img/kanengomi.svg,#ea3b13
+可燃ごみ,指定ゴミ袋,,img/kanengomi.svg,#ea3b13
 不燃ごみ,,,img/funengomi.svg,#733b96
 資源物1,,,img/sigenbutu1.svg,#81d12e
 資源物2,,,img/sigenbutu2.svg,#08b925
