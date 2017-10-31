@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-燃やすごみ,,,img/moyasanai02.svg,#733b96
-燃やさないごみ,,,img/shigen02.svg,#77ae1f
-資源ごみ,,,img/moyasu02.svg,#ea3b13
-木くず類,,,img/bin02.svg,#2dc7aa
+燃やすごみ,,,img/moyasugomi02.svg,#733b96
+燃やさないごみ,,,img/moyasanai02.svg,#77ae1f
+資源ごみ,,,img/sigen02.svg,#ea3b13
+木くず類,,,img/kanengomi02.svg,#2dc7aa
